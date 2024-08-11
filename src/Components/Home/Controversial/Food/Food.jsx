@@ -1,11 +1,14 @@
+import Footer from "../../../Footer/Footer";
 import Navber from "../../../Navber";
+import AllFoods from "./AllFoods/AllFoods";
 
 
 const Food = () => {
     return (
         <div>
-           <h1>Food</h1> 
            <Navber></Navber>
+           <AllFoods></AllFoods>
+            <Footer></Footer>
         </div>
     );
 };

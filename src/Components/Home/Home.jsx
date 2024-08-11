@@ -1,8 +1,10 @@
+
 import Banner from "./Banner/Banner";
 import Beauty from "./Beauty/Beauty";
 import Controversial from "./Controversial/Controversial";
 import Fashions from "./Fashions/Fashions";
 import Trending from "./Trending/Trending";
+import Wellness from "./Wellness/Wellness";
 
 
 const Home = () => {
@@ -13,6 +15,7 @@ const Home = () => {
             <Beauty></Beauty>
             <Fashions></Fashions>
             <Trending></Trending>
+            <Wellness></Wellness>
         </div>
     );
 };
