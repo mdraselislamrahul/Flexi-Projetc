@@ -1,0 +1,189 @@
+[
+    {
+        "id": 1,
+        "titleName": "A Guide To Buying Denim & My Favourite Styles",
+        "image": "https://flexiblog-beauty.netlify.app/static/e4dfcc1f88927b6a508ac513fd6f53a4/6b99c/image.webp",
+        "profileImg": "https://flexiblog-beauty.netlify.app/static/177387e6e627ed30ec5f5decfce1456f/a3542/florrie-jacobs.webp",
+        "profileName": "Jane Smith",
+        "date": "2024-08-01",
+        "category": "Makeup Artist",
+        "description": "Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.",
+        "list": [
+            "First ordered list item",
+            "Another item",
+            "Ordered sub-list",
+            "And another item.",
+            "Unordered list can use asterisks"
+        ]
+    },
+    {
+        "id": 2,
+        "titleName": "How To Make a 10x10 Capsule Wardrobe",
+        "image": "https://flexiblog-beauty.netlify.app/static/205980d617271594a243e1610470a52d/6b99c/image.webp",
+        "profileImg": "https://flexiblog-beauty.netlify.app/static/177387e6e627ed30ec5f5decfce1456f/a3542/florrie-jacobs.webp",
+        "profileName": "Mia Glam",
+        "date": "2024-08-10",
+        "category": "Makeup Artist",
+        "description": "Placet nostris plangi sorore moderere iuro tolerare, Macareus vallibus hiems manus matres prodit! Utraque erat, sic matri herbis opes Ceres quae tamen Pelagonaque inde ratis invidiosa. Magna probat vincula.Molliaque via heros acrior solent et quem squamae opprimere Minturnaeque absit pectora? Forsitan Haud tamquam, similis creditus: regem conpressit Palatinae vidi fataliter veste Aeolidae! Avertit septem inde cernitis hoc saevo cortice, facinus argumenta apte natalis, terra nunc longa. Nulla festam pares, dici factas fraudare timetis;  e fractae solebat circum, concidit deiecerat partu.",
+        "list": [
+            "Ventis habebunt cautus promptum in colorem illi",
+            "Sed et relevare tenentibus more",
+            "Vota missum nos numine tellure cum neque",
+            "Momentaque victrices suberant in semel",
+            "Gemellos montibus"
+        ]
+    },
+    {
+        "id": 3,
+        "titleName": "Capsule Wardrobe Essentials The Leopard Print Coat",
+        "image": "https://flexiblog-beauty.netlify.app/static/12152e2f68493cdf163853db4c8ca597/6b99c/image.webp",
+        "profileImg": "https://flexiblog-beauty.netlify.app/static/cc4c6b62392829f5c3658c6842218a69/a3542/steve-grant.webp",
+        "profileName": "Sophia Styles",
+        "date": "2024-08-15",
+        "category": "Makeup Artist",
+        "description": "Subiungit stipe in secunda, cum et non materno, est arma locis exhalat? O nec subiere curia  tamen Proteus rutilasque somni arbore, fecisse ille. Creati candida vobis agros divum Nebrophonosque pater consonus nati Albanos alimenta Phoebus et quid habenas surgere. Potentem inania agam prius semper consurgere  liber multorumque dempto.Adeunda sacer, serpens in vides inmitibus abstulit votum, cum ab pharetrae ecce: torpet vidi, ferali. Litem massae verba, essem nec et ferarum nihil, et. Priores aeternas pastor fuerit?",
+        "list": [
+            "Me cumque forsitan",
+            "Vivacisque hos reus",
+            "Exit salva pertimuit damni",
+            "Leave-In Conditioner",
+            "Redeunt inpediique ab paulatim Penthea fidem"
+        ]
+    },
+    {
+        "id": 4,
+        "titleName": "My Style Plan For 2019 & A Look Back At The Past Year",
+        "image": "https://flexiblog-beauty.netlify.app/static/cd1449752dca7a5884f40505209f108c/6b99c/image.webp",
+        "profileImg": "https://flexiblog-beauty.netlify.app/static/177387e6e627ed30ec5f5decfce1456f/a3542/florrie-jacobs.webp",
+        "profileName": "Emily Nails",
+        "date": "2024-08-20",
+        "category": "Nail Art",
+        "description": "Et quin ab flatibus saepe, adiciunt animal. Turpe intus turpes miracula se quibus illum, suam! Nox interdum, tumefactum rerum; ego supra inque iamdudum spes, nomina, dixit. Quae quas  certis gradus, et ignes fuit demit praerupta satis dextris.Infracto mihi certaque. Magnas circumspice ducis sparsisque lacus.Saucius latitantia letum! Hebrum isse , vocavit diffundi duorum, deus mens culmina. Vos vires non invicti aestus Samon, viventia, est male terruit.",
+        "list": [
+            "Base Coat",
+            "Nail Polish",
+            "Nail Stickers",
+            "Top Coat",
+            "Nail File"
+        ]
+    },
+    {
+        "id": 5,
+        "titleName": "My Winter Capsule Wardrobe Wish List",
+        "image": "https://flexiblog-beauty.netlify.app/static/b93b744f7f6539692acd30c4e0e7ce8b/6b99c/image.webp",
+        "profileImg": "https://flexiblog-beauty.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/a3542/jane-smith.webp",
+        "profileName": "Lucy Green",
+        "date": "2024-08-25",
+        "category": "Wedding Planner",
+        "description": "Et quin ab flatibus saepe, adiciunt animal. Turpe intus turpes miracula se quibus illum, suam! Nox interdum, tumefactum rerum; ego supra inque iamdudum spes, nomina, dixit. Quae quas  certis gradus, et ignes fuit demit praerupta satis dextris.Infracto mihi certaque. Magnas circumspice ducis sparsisque lacus.Saucius latitantia letum! Hebrum isse , vocavit diffundi duorum, deus mens culmina. Vos vires non invicti aestus Samon, viventia, est male terruit.",
+        "list": [
+            "Aloe Vera Gel",
+            "Coconut Oil",
+            "Rose Water",
+            "Herbal Face Pack",
+            "Lip Balm"
+        ]
+    },
+    {
+        "id": 6,
+        "titleName": "seven Summer Clothing Brands to Get Familiar With",
+        "image": "https://flexiblog-beauty.netlify.app/static/490849297f390103d9239f77cec99cbd/6b99c/image.webp",
+        "profileImg": "https://flexiblog-beauty.netlify.app/static/177387e6e627ed30ec5f5decfce1456f/a3542/florrie-jacobs.webp",
+        "profileName": "Eva Wellness",
+        "date": "2024-08-30",
+        "category": "Makeup Artist",
+        "description": "Et quin ab flatibus saepe, adiciunt animal. Turpe intus turpes miracula se quibus illum, suam! Nox interdum, tumefactum rerum; ego supra inque iamdudum spes, nomina, dixit. Quae quas  certis gradus, et ignes fuit demit praerupta satis dextris.Infracto mihi certaque. Magnas circumspice ducis sparsisque lacus.Saucius latitantia letum! Hebrum isse , vocavit diffundi duorum, deus mens culmina. Vos vires non invicti aestus Samon, viventia, est male terruit.",
+        "list": [
+            "Aromatherapy",
+            "Face Mask",
+            "Body Scrub",
+            "Bath Salts",
+            "Night Cream"
+        ]
+    },
+    {
+        "id": 7,
+        "titleName": "The Five Best Places To Shop For Autumn Pieces",
+        "image": "https://flexiblog-beauty.netlify.app/static/ea4444a37846586d8adfa1d9fa6d75ec/6b99c/image.webp",
+        "profileImg": "https://flexiblog-beauty.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/a3542/jane-smith.webp",
+        "profileName": "Sara Youth",
+        "date": "2024-09-05",
+        "category": "Fashion Designer",
+        "description": "Et quin ab flatibus saepe, adiciunt animal. Turpe intus turpes miracula se quibus illum, suam! Nox interdum, tumefactum rerum; ego supra inque iamdudum spes, nomina, dixit. Quae quas  certis gradus, et ignes fuit demit praerupta satis dextris.Infracto mihi certaque. Magnas circumspice ducis sparsisque lacus.Saucius latitantia letum! Hebrum isse , vocavit diffundi duorum, deus mens culmina. Vos vires non invicti aestus Samon, viventia, est male terruit.",
+        "list": [
+            "Retinol Serum",
+            "Vitamin C",
+            "Collagen Cream",
+            "Eye Cream",
+            "Sunscreen"
+        ]
+    },
+    {
+        "id": 8,
+        "titleName": "Three New Outfit Formulas To Add To Your Capsule Wardrobe",
+        "image": "https://flexiblog-beauty.netlify.app/static/75746007ca4e6471ba2975a8e2c6720b/6b99c/image.webp",
+        "profileImg": "https://flexiblog-beauty.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/a3542/jane-smith.webp",
+        "profileName": "Nina Natural",
+        "date": "2024-09-10",
+        "category": "Makeup Artist",
+        "description": "Et quin ab flatibus saepe, adiciunt animal. Turpe intus turpes miracula se quibus illum, suam! Nox interdum, tumefactum rerum; ego supra inque iamdudum spes, nomina, dixit. Quae quas  certis gradus, et ignes fuit demit praerupta satis dextris.Infracto mihi certaque. Magnas circumspice ducis sparsisque lacus.Saucius latitantia letum! Hebrum isse , vocavit diffundi duorum, deus mens culmina. Vos vires non invicti aestus Samon, viventia, est male terruit.",
+        "list": [
+            "Conscia et lucibus meas domus licuit sum",
+            "Hac comes celebrabere",
+            "Saltu cepi pulsat inde",
+            "Caecus tanto maritum sed quem cruore domesticus",
+            "Iuvenis amor finita"
+        ]
+    },
+    {
+        "id": 9,
+        "titleName": "The Satin Skirt & How To Wear It All Year Round",
+        "image": "https://flexiblog-beauty.netlify.app/static/fc4f51a6cd646f348f9fcdffc3c2aa95/6b99c/image.webp",
+        "profileImg": "https://flexiblog-beauty.netlify.app/static/177387e6e627ed30ec5f5decfce1456f/a3542/florrie-jacobs.webp",
+        "profileName": "Lena Curls",
+        "date": "2024-09-15",
+        "category": "Wedding Planner",
+        "description": "Et quin ab flatibus saepe, adiciunt animal. Turpe intus turpes miracula se quibus illum, suam! Nox interdum, tumefactum rerum; ego supra inque iamdudum spes, nomina, dixit. Quae quas  certis gradus, et ignes fuit demit praerupta satis dextris.Infracto mihi certaque. Magnas circumspice ducis sparsisque lacus.Saucius latitantia letum! Hebrum isse , vocavit diffundi duorum, deus mens culmina. Vos vires non invicti aestus Samon, viventia, est male terruit.",
+        "list": [
+            "Anti-Frizz Serum",
+            "Silk Pillowcase",
+            "Leave-In Conditioner",
+            "Hair Oil",
+            "Microfiber Towel"
+        ]
+    },
+    {
+        "id": 10,
+        "titleName": "What I’ll Be Wearing This Party Season & The Festive Edit",
+        "image": "https://flexiblog-beauty.netlify.app/static/732c171d474ccfc512ea126372c2bd5a/6b99c/image.webp",
+        "profileImg": "https://flexiblog-beauty.netlify.app/static/cc4c6b62392829f5c3658c6842218a69/a3542/steve-grant.webp",
+        "profileName": "Kate Frost",
+        "date": "2024-09-20",
+        "category": "Makeup Artist",
+        "description": "Et quin ab flatibus saepe, adiciunt animal. Turpe intus turpes miracula se quibus illum, suam! Nox interdum, tumefactum rerum; ego supra inque iamdudum spes, nomina, dixit. Quae quas  certis gradus, et ignes fuit demit praerupta satis dextris.Infracto mihi certaque. Magnas circumspice ducis sparsisque lacus.Saucius latitantia letum! Hebrum isse , vocavit diffundi duorum, deus mens culmina. Vos vires non invicti aestus Samon, viventia, est male terruit.",
+        "list": [
+            "Hydrating Cleanser",
+            "Moisturizing Cream",
+            "Lip Balm",
+            "Hand Cream",
+            "Overnight Mask"
+        ]
+    },
+    {
+        "id": 11,
+        "titleName": "This Tik Tok Makeup Trend Apparently Yields a Flawless",
+        "image": "https://flexiblog-beauty.netlify.app/static/60ca07067e583e8738b7513f8c46202d/6b99c/image.webp",
+        "profileImg": "https://flexiblog-beauty.netlify.app/static/cc4c6b62392829f5c3658c6842218a69/a3542/steve-grant.webp",
+        "profileName": "Emma Bridal",
+        "date": "2024-09-25",
+        "category": "Wedding Planner",
+        "description": "Et quin ab flatibus saepe, adiciunt animal. Turpe intus turpes miracula se quibus illum, suam! Nox interdum, tumefactum rerum; ego supra inque iamdudum spes, nomina, dixit. Quae quas  certis gradus, et ignes fuit demit praerupta satis dextris.Infracto mihi certaque. Magnas circumspice ducis sparsisque lacus.Saucius latitantia letum! Hebrum isse , vocavit diffundi duorum, deus mens culmina. Vos vires non invicti aestus Samon, viventia, est male terruit.",
+        "list": [
+            "Habitusque solent ramos missus fama labori hastam",
+            "Teeth Whitening",
+            "Patientia verba paterque Canentem ad oras laeso",
+            "Cum in femina Alcyone liquidis ictu muneris ",
+            "Makeup Trial"
+        ]
+    }
+]
